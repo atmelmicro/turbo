@@ -1,0 +1,10 @@
+.line {
+  background: linear-gradient(
+    to left,
+    rgb(120 113 108),
+    rgb(120 113 108) 50%,
+    transparent 0,
+    transparent
+  );
+  background-size: 5px 1px;
+}

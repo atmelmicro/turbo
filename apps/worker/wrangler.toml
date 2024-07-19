@@ -1,0 +1,20 @@
+name = "mat-worker"
+main = "src/index.ts"
+compatibility_date = "2024-03-14"
+compatibility_flags = [ "nodejs_compat" ]
+routes = [
+	{ pattern = "worker.mat-development.com", custom_domain = true }
+]
+# [[durable_objects.bindings]]
+# name = "MY_DURABLE_OBJECT"
+# class_name = "MyDurableObject"
+
+# [[migrations]]
+# tag = "v1"
+# new_classes = ["MyDurableObject"]
+
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "test"
+database_id = "6707951b-4fa0-4553-806e-ad6794db32b0"
+preview_database_id = "DB"

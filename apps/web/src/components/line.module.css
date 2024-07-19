@@ -1,0 +1,30 @@
+.line {
+  background: linear-gradient(
+    rgb(214 211 209),
+    rgb(214 211 209) 50%,
+    transparent 0,
+    transparent
+  );
+  background-size: 1px 5px;
+}
+
+.vertical {
+  background: linear-gradient(
+    rgb(192, 189, 187),
+    rgb(192, 189, 187) 50%,
+    transparent 0,
+    transparent
+  );
+  background-size: 1px 5px;
+}
+
+.horizontal {
+  background: linear-gradient(
+    to right,
+    rgb(192, 189, 187),
+    rgb(192, 189, 187) 50%,
+    transparent 0,
+    transparent
+  );
+  background-size: 5px 1px;
+}

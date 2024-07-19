@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Vrstva_2" data-name="Vrstva 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 264.72 102">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Nepojmenovaný_přechod_3);
+        stroke: #c1ccff;
+        stroke-width: 2px;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Nepojmenovaný_přechod_5);
+        stroke: #fff;
+        stroke-width: 7px;
+      }
+    </style>
+    <linearGradient id="Nepojmenovaný_přechod_3" data-name="Nepojmenovaný přechod 3" x1="93.5" y1="-3.68" x2="-4.35" y2="122.21" gradientUnits="userSpaceOnUse">
+      <stop offset=".03" stop-color="#779aff"/>
+      <stop offset="1" stop-color="#003ff2"/>
+    </linearGradient>
+    <linearGradient id="Nepojmenovaný_přechod_5" data-name="Nepojmenovaný přechod 5" x1="37.78" y1="35.21" x2="62.84" y2="65.14" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#94a9ff"/>
+      <stop offset="1" stop-color="#2d63ff"/>
+    </linearGradient>
+  </defs>
+  <g id="Vrstva_1-2" data-name="Vrstva 1">
+    <g>
+      <g>
+        <path class="cls-3" d="m153.72,27.15l11.76,33,11.7-33h10.56v42.6h-7.8v-29.28l-10.74,29.22h-7.44l-10.74-29.22v29.28h-7.8V27.15h10.5Z"/>
+        <path class="cls-3" d="m208.86,27.15h9.54l15.36,42.6h-8.16l-3.54-10.08h-16.86l-3.54,10.08h-8.16l15.36-42.6Zm10.92,25.86l-6.12-18-6.18,18h12.3Z"/>
+        <path class="cls-3" d="m264.72,33.93h-12.96v35.82h-7.8v-35.82h-12.9v-6.78h33.66v6.78Z"/>
+      </g>
+      <g>
+        <rect class="cls-1" x="1" y="1" width="100" height="100" rx="8.04" ry="8.04"/>
+        <path class="cls-2" d="m28.36,40.51v20.98c0,1.6.85,3.08,2.24,3.87l18.17,10.49c1.38.8,3.09.8,4.47,0l18.17-10.49c1.38-.8,2.24-2.28,2.24-3.87v-20.98c0-1.6-.85-3.08-2.24-3.87l-18.17-10.49c-1.38-.8-3.09-.8-4.47,0l-18.17,10.49c-1.38.8-2.24,2.28-2.24,3.87Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

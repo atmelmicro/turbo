@@ -1,0 +1,24 @@
+@keyframes swipe {
+  0% {
+    top: -32px;
+  }
+  50% {
+    top: 100%;
+  }
+  100% {
+    top: 100%;
+  }
+}
+
+.line1 {
+  animation-name: swipe;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: reverse;
+}
+
+.line2 {
+  animation-name: swipe;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}

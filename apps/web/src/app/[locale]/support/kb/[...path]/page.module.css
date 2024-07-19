@@ -1,0 +1,35 @@
+.mdx h1,
+.mdx h2,
+.mdx h3,
+.mdx h4,
+.mdx h5,
+.mdx h6 {
+  @apply mb-2 font-mono font-bold;
+}
+
+.mdx h1 {
+  @apply text-2xl;
+}
+
+.mdx h2 {
+  @apply text-xl;
+}
+
+.mdx h3 {
+  @apply text-lg;
+}
+
+.mdx h5 {
+  @apply text-sm;
+}
+.mdx h6 {
+  @apply text-xs;
+}
+
+.mdx p {
+  @apply leading-relaxed;
+}
+
+.mdx {
+  @apply w-full;
+}
